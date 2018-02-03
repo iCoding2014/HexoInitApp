@@ -1,0 +1,2 @@
+# HexoInitApp
+HexoInitApp
